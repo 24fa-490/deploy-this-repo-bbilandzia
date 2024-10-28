@@ -25,7 +25,7 @@
 *Comments and feedback welcome!*
 
 # Where am I deployed?
-[https://deploy-this-repo-bbilandzia-galtxdrsc.vercel.app/](https://deploy-this-repo-bbilandzia-git-main-brandons-projects-93112827.vercel.app/)
+
 [<enter your URL here>](https://deploy-this-repo-bbilandzia.vercel.app/)
 
 
